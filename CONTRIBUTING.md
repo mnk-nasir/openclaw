@@ -52,7 +52,7 @@ build tooling to support standard decorators.
 
 ## AI/Vibe-Coded PRs Welcome! 🤖
 
-Built with Codex, Claude, or other AI tools? **Awesome - just mark it!**
+Built with Codex, Claude, or other AI tools? **Awesome - just mark it..!**
 
 Please include in your PR:
 
